@@ -87,7 +87,7 @@ public class LoginActivity extends AppCompatActivity {
                 attemptLogin();
             }
         });
-
+        // this is test
         mLoginFormView = findViewById(R.id.login_form);
         mProgressView = findViewById(R.id.login_progress);
     }
